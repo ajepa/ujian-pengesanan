@@ -1,0 +1,29 @@
+1=20/200
+visit a doctor for accurate test
+
+2=20/100
+visit doc
+
+3=20/60
+visit doc
+
+4=20/50
+visit doc
+
+5=20/40
+visit doc
+
+6=20/35
+visit doc
+
+7=20/30
+visit doc
+
+8=20/25
+normal vision
+
+9=20/20
+normal vision
+
+10=20/15
+better than normal vision
